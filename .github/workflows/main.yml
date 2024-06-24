@@ -22,4 +22,4 @@ jobs:
         activate-environment: atlantis_database
 
     - name: Run asynchronous_db.py script
-      run: python asynchronous_db.py
+      run: python atlantis_db/asynchronous_db.py
