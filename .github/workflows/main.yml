@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - master
-  pull_request:
-    branches:
-      - master
 
 jobs:
   run-script:
@@ -23,17 +20,6 @@ jobs:
       uses: conda-incubator/setup-miniconda@v2
       with:
         activate-environment: atlantis_database
-        environment-file: environment.yml
-        python-version: 3.10
-
-    - name: Verify Conda environment
-      run: conda info
 
     - name: Run asynchronous_db.py script
-      env:
-        DB_USER: ${{ secrets.DB_USER }}
-        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-        DB_HOST: ${{ secrets.DB_HOST }}
-        DB_PORT: ${{ secrets.DB_PORT }}
-        DB_NAME: ${{ secrets.DB_NAME }}
       run: python asynchronous_db.py
