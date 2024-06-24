@@ -16,10 +16,15 @@ jobs:
     - name: Set up Conda
       uses: conda-incubator/setup-miniconda@v2
       with:
-        activate-environment: atlantis_database
+        with:
+          activate-environment: atlantis_database
+
+
+    - name: Change to scripts directory
+      run: cd scripts
 
     - name: Run asynchronous_db.py script
-      run: python scripts/asynchronous_db.py
-      working-directory: ./atlantis_db
+      run: python asynchronous_db.py
+
 
 
