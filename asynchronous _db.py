@@ -4,11 +4,11 @@ import pandas as pd
 import os
 
 dsn = {
-    'user': 'bionfolab',
-    'password': 'Bioinfolab22#@!',
-    'host': '127.0.0.1',
-    'port': 3306,
-    'db': 'integrar'
+    'user': os.getenv('DB_USER'),
+    'password': os.getenv('DB_PASSWORD'),
+    'host': os.getenv('DB_HOST'),
+    'port': int(os.getenv('DB_PORT')),
+    'db': os.getenv('DB_NAME')
 }
 
 
