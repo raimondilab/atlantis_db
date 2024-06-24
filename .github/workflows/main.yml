@@ -19,7 +19,6 @@ jobs:
         with:
           activate-environment: atlantis_database
 
-
     - name: Change to scripts directory
       run: cd scripts
 
