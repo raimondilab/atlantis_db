@@ -13,9 +13,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Perform git pull
-      run: git pull origin master
-
     - name: Set up Conda
       uses: conda-incubator/setup-miniconda@v2
       with:
@@ -23,3 +20,4 @@ jobs:
 
     - name: Run asynchronous_db.py script
       run: python atlantis_db/asynchronous_db.py
+
