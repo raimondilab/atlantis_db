@@ -20,4 +20,6 @@ jobs:
 
     - name: Run asynchronous_db.py script
       run: python scripts/asynchronous_db.py
+      working-directory: atlantis_db
+
 
