@@ -145,7 +145,7 @@ async def process_file_async(files_folder, file_path, protein_id):
 
 
 async def main():
-    files_folder = "./database/"
+    files_folder = "../database/"
     files = os.listdir(files_folder)
 
     async with aiomysql.create_pool(**dsn) as pool:
