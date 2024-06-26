@@ -18,11 +18,8 @@ jobs:
       with:
           activate-environment: atlantis_database
 
-    - name: Change to scripts directory
-      run: cd scripts
-
     - name: Run asynchronous_db.py script
-      run: python asynchronous_db.py
+      run: python scripts/asynchronous_db.py
 
 
 
