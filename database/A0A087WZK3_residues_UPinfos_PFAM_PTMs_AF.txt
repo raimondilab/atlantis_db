@@ -1,9 +1,9 @@
-UniProt AN: A0A087WZK3
+UniProt AN:  A0A087WZK3;
+UniProt ID:  none;
+Gene Name:  none;
+Length:  und;
+Status:  unk;
 
-# position
-    # Uniprot reference proteome residue
-        # AlphaFold residue
-            # AlphaFold confidence value
 
 # primary key (an_position)
     #1: Uniprot reference proteome residue
