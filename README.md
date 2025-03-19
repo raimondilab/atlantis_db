@@ -1,5 +1,7 @@
 An integrative daTabase for human proteome structuraL And FuNcTIonal Sites
 
+![](/logo.png)
+
 Welcome to the Atlantis Complementary Repository!
 
 Understanding the functional role of specific residues is crucial for deciphering protein function, regulation, and interaction networks. To this endeavor, we have created the Atlantis database, which provides an extensive resource for understanding the role of specific residues in protein structures, complexes, and interaction networks. The database integrates various structural and functional annotation layers for each residue, offering a comprehensive understanding of protein functionality.
