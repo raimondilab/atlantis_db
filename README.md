@@ -11,11 +11,11 @@ Atlantis annotates 11,378,289 residues across 20,594 human proteins. Additionall
 
 We extracted a list of all the UniProt accession numbers from the file containing the FASTA sequence for the entire human proteome database. Next, we extracted and mapped each residue's structural and functional annotation layers. Following that, we calculated the contacts for each PDB and AF structure.
 
-![](/frontend/public/assets/images/workflow.png)
+![](/workflow.png)
 
 ## Architecture 
 
 We developed a GraphQL API to provide direct open access to data. The API documentation page offers comprehensive information about the API's functionality and supported methods. Moreover, it enables quick and effortless data retrieval, making it easier to locate structural and functional annotations and facilitating integration in data analysis, machine learning pipelines, and more. 
 
-![](/frontend/public/assets/images/graphql.png)
+![](/graphql.png)
 
