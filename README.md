@@ -15,9 +15,4 @@ We extracted a list of all the UniProt accession numbers from the file containin
 
 ![](/workflow.png)
 
-## Architecture 
-
-We developed a GraphQL API to provide direct open access to data. The API documentation page offers comprehensive information about the API's functionality and supported methods. Moreover, it enables quick and effortless data retrieval, making it easier to locate structural and functional annotations and facilitating integration in data analysis, machine learning pipelines, and more. 
-
-![](/graphql.png)
 
