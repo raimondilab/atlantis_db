@@ -1,3 +1,5 @@
+[![DOI]()]()
+
 An integrative daTabase for human proteome structuraL And FuNcTIonal Sites
 
 ![](/logo.png)
@@ -15,5 +17,13 @@ Explore ![Atlantis]("https://atlantis.bioinfolab.sns.it").
 We extracted a list of all the UniProt accession numbers from the file containing the FASTA sequence for the entire human proteome database. Next, we extracted and mapped each residue's structural and functional annotation layers. Following that, we calculated the contacts for each PDB and AF structure.
 
 ![](/workflow.png)
+
+
+## Structure of this Repository
+
+There are two main folders:
+
+1. '/data' -  contains the datasets, necessary input, and output files categorized into different subfolders.
+2. '/scripts' - contains the codes used to develop Atlantis.
 
 
