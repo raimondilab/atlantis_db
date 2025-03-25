@@ -1,6 +1,6 @@
 [![DOI]()]()
 
-An integrative daTabase for human proteome structuraL And FuNcTIonal Sites
+An integrative daTabase for human proteome structural And FuNcTIonal Sites
 
 ![](/logo.png)
 
@@ -26,4 +26,8 @@ There are two main folders:
 1. '/data' -  contains the datasets, necessary input, and output files categorized into different subfolders.
 2. '/scripts' - contains the codes used to develop Atlantis.
 
+## Output page of the web application
+#### Functional site information section
+This section provides various types of annotations at the residue level, including UniProt annotations such as variants, molecule processing, membrane localization, motifs, domains, glycosylations, lipidations, modified residues, disulfide bonds, and secondary structures. Protein architecture information is provided through PFAM and InterPro domains and aligned positions in the Hidden Markov Model (HMM). Additionally, it includes information on IntAct binding regions and protein post-translational modifications sourced from PhosphoSitePlus.
 
+![Coupling probabilities table](static/img/GIFs/couplingProbabilities.gif)
