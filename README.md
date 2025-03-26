@@ -1,4 +1,4 @@
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/819387466.svg)](https://doi.org/10.5281/zenodo.15091436)
 
 An integrative daTabase for human proteome structural And FuNcTIonal Sites
 
