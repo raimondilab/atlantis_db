@@ -1,0 +1,60 @@
+UniProt AN:  A0A9L9PXP3;
+UniProt ID:  none;
+Gene Name:  none;
+Length:  und;
+Status:  unk;
+
+
+# primary key (an_position)
+    #1: Uniprot reference proteome residue
+        #2: AlphaFold residue
+            #3: UniProt annotated natural variants
+                #4: signal-peptide/transit-peptide/pro-peptide/chain
+                    #5: loclization with respect to membranes
+                        #6: UniProt annotated motives
+                            #7: UniProt annotated domains
+                                #8: PFAM domain and alligned position in the HMM
+                                    #9: UniProt annotated ligands (binding site)
+                                        #10: UniProt annotated properties (active site)
+                                            #11: list of annotated Phosphosite PTMs
+                                                #12: UniProt annotated glycosylations
+                                                    #13: UniProt annotated lipidations
+                                                        #14: UniProt annotated modifyed residues
+                                                            #15: UniProt annotated disulfide-dond bridges
+                                                                #16: UniProt annotated secondary structure
+                                                                    #17: AlphaFold predicted secondary structure
+                                                                        #18: AlphaFold confidence value
+                                                                            #19: AlphaFold maximum predicted number of interacting residues in a single structure (r = 8A)
+                                                                                #20: AlphaFold list of residue with a predicted interaction in at least one structure (r = 8A)
+                                                                                    #21: UniProt annotated crosslinks
+
+
+A0A9L9PXP3_1 | 1: M | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_2 | 1: T | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_3 | 1: F | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_4 | 1: H | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_5 | 1: R | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_6 | 1: N | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_7 | 1: V | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_8 | 1: R | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_9 | 1: S | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_10 | 1: F | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_11 | 1: G | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_12 | 1: A | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_13 | 1: N | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_14 | 1: Y | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_15 | 1: Q | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_16 | 1: G | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_17 | 1: Q | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_18 | 1: G | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_19 | 1: W | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_20 | 1: E | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_21 | 1: K | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_22 | 1: Q | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_23 | 1: V | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_24 | 1: L | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_25 | 1: D | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_26 | 1: S | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_27 | 1: Q | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_28 | 1: P | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
+A0A9L9PXP3_29 | 1: V | 2: unk | 3: [ no_variant ] | 4: unk | 5: unk | 6: [ no_motive ] | 7: [ no_domain ] | 8: [ no_PFAM_res ] | 9: [ no_ligand ] | 10: [ no_active_site ] | 11: [ ] | 12: [ no_carbohydrate ] | 13: [ no_lipid ] | 14: [ no_mod_res ] | 15: no_bridge | 16: unk | 17: unk | 18: unk | 19: unk | 20: [ unk ] | 21: [ no_crosslink ]
