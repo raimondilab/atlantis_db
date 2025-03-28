@@ -1,0 +1,2 @@
+UniProt AN:  Q08AS3;
+

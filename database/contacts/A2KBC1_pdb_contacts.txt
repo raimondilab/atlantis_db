@@ -1,0 +1,2 @@
+UniProt AN:  A2KBC1;
+

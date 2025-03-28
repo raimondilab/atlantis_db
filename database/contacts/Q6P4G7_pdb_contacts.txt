@@ -1,0 +1,2 @@
+UniProt AN:  Q6P4G7;
+

@@ -1,0 +1,2 @@
+UniProt AN:  I2FL84;
+

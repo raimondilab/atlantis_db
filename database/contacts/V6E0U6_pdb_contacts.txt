@@ -1,0 +1,2 @@
+UniProt AN:  V6E0U6;
+

@@ -1,0 +1,2 @@
+UniProt AN:  L8E853;
+

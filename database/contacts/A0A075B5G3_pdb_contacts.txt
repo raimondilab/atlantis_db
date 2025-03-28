@@ -1,0 +1,2 @@
+UniProt AN:  A0A075B5G3;
+

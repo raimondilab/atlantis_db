@@ -1,0 +1,2 @@
+UniProt AN:  Q5T4P3;
+

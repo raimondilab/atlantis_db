@@ -1,0 +1,2 @@
+UniProt AN:  S6BAN1;
+

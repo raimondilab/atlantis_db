@@ -1,0 +1,2 @@
+UniProt AN:  F1LW30;
+

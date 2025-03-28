@@ -1,0 +1,2 @@
+UniProt AN:  B7H1N2;
+

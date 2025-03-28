@@ -1,0 +1,2 @@
+UniProt AN:  X5D2T3;
+

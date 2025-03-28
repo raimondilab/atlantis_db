@@ -1,0 +1,2 @@
+UniProt AN:  A8K4C2;
+

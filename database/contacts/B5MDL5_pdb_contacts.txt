@@ -1,0 +1,2 @@
+UniProt AN:  B5MDL5;
+

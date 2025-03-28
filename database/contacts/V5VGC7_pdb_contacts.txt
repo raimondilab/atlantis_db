@@ -1,0 +1,2 @@
+UniProt AN:  V5VGC7;
+

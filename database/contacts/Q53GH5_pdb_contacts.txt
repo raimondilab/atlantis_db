@@ -1,0 +1,2 @@
+UniProt AN:  Q53GH5;
+

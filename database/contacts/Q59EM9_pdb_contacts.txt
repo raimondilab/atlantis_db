@@ -1,0 +1,2 @@
+UniProt AN:  Q59EM9;
+

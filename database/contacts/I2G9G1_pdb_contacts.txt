@@ -1,0 +1,2 @@
+UniProt AN:  I2G9G1;
+

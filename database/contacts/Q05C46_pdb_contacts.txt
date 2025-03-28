@@ -1,0 +1,2 @@
+UniProt AN:  Q05C46;
+

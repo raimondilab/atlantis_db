@@ -1,0 +1,2 @@
+UniProt AN:  G1C794;
+

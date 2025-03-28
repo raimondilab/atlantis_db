@@ -1,0 +1,2 @@
+UniProt AN:  E7ESL0;
+

@@ -1,0 +1,2 @@
+UniProt AN:  B7GV74;
+

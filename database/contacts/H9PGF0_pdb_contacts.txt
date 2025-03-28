@@ -1,0 +1,2 @@
+UniProt AN:  H9PGF0;
+

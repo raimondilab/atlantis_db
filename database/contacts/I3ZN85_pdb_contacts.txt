@@ -1,0 +1,2 @@
+UniProt AN:  I3ZN85;
+

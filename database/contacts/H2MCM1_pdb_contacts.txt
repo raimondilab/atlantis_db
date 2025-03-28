@@ -1,0 +1,2 @@
+UniProt AN:  H2MCM1;
+

@@ -1,0 +1,2 @@
+UniProt AN:  F2Z3D5;
+

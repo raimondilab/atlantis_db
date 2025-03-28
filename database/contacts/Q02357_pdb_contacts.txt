@@ -1,0 +1,2 @@
+UniProt AN:  Q02357;
+

@@ -1,0 +1,2 @@
+UniProt AN:  B6E129;
+

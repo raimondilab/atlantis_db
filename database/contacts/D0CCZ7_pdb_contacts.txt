@@ -1,0 +1,2 @@
+UniProt AN:  D0CCZ7;
+

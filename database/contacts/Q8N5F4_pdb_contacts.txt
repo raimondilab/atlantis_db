@@ -1,0 +1,2 @@
+UniProt AN:  Q8N5F4;
+

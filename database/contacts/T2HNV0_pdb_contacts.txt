@@ -1,0 +1,2 @@
+UniProt AN:  T2HNV0;
+

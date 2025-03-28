@@ -1,0 +1,2 @@
+UniProt AN:  A4FUT8;
+
