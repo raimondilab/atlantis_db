@@ -1,2 +1,0 @@
-UniProt AN:  L5LUA8;
-

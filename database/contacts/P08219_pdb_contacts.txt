@@ -1,2 +1,0 @@
-UniProt AN:  P08219;
-

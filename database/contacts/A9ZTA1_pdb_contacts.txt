@@ -1,0 +1,2 @@
+UniProt AN:  A9ZTA1;
+
